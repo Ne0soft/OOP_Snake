@@ -8,6 +8,6 @@ namespace OOP_Snake
 {
     internal class Snake
     {
-
+wawssafw
     }
 }
